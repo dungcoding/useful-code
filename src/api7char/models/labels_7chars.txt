@@ -1,0 +1,7 @@
+0 den_truong
+1 di
+2 duoc
+3 giao_tiep
+4 hoc
+5 muon
+6 toi

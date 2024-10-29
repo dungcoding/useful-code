@@ -1,0 +1,7 @@
+numpy
+opencv-python
+flask
+base64
+io
+traceback
+tensorflow==2.14.0
